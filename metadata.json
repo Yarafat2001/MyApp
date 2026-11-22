@@ -1,0 +1,6 @@
+{
+  "name": "SentinelOps",
+  "description": "Tactical security automation command platform featuring pure crystal glassmorphic aesthetics, Gemini 3.8 Flash SecOps AI Copilot, automated patrol pacing, NFC/QR checkpoints, lone-worker safety countdown, SOP rules engine, and bilingual English/Bengali interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
